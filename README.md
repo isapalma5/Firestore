@@ -1,4 +1,5 @@
-# Back-end Banco de Dados - Google Cloud Firestore  
+# Back-end e Configurações do Banco de Dados - Google Cloud Firestore  
+**Ciência da Computação - 3° Semestre**
 
 **Integrantes:**
 - Giovanna Lanzi Lopes Torres;
