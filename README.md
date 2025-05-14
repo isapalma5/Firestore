@@ -1,8 +1,8 @@
-# teste
+# Back-end Banco de Dados - Google Cloud Firestore  
 
-oi
+**Integrantes:**
+- Giovanna Lanzi Lopes Torres;
+- Giovanna Rafaela Mendes Léo Santos;
+- Isabella Castilho Palma;
+- Sophia Tiene Vega Valdivia.
 
-*oi*  
-
-**oi**
-<ins>teste2</ins>
